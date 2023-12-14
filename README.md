@@ -3,7 +3,7 @@
 
 # Deutsch's Algorithm Project
 
--### Introduction
+### Introduction
 ### Deutschs's Algorithm
 ### Oracle Problem
 ### Classical Computational Approach
