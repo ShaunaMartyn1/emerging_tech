@@ -1,9 +1,9 @@
 # emerging_tech
-4th year emerging technologies project 
+4th year emerging technologies project on Deutsch's Algorithm
 
 # Deutsch's Algorithm Project
 
-### Introduction
+-### Introduction
 ### Deutschs's Algorithm
 ### Oracle Problem
 ### Classical Computational Approach
